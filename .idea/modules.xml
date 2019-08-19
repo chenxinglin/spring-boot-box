@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-box.iml" filepath="$PROJECT_DIR$/spring-boot-box.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-fastdfs/spring-boot-fastdfs.iml" filepath="$PROJECT_DIR$/spring-boot-fastdfs/spring-boot-fastdfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-fileupload/spring-boot-fileupload.iml" filepath="$PROJECT_DIR$/spring-boot-fileupload/spring-boot-fileupload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-freemarker/spring-boot-freemarker.iml" filepath="$PROJECT_DIR$/spring-boot-freemarker/spring-boot-freemarker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-jpa/spring-boot-jpa.iml" filepath="$PROJECT_DIR$/spring-boot-jpa/spring-boot-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-redis/spring-boot-redis.iml" filepath="$PROJECT_DIR$/spring-boot-redis/spring-boot-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-web/spring-boot-web.iml" filepath="$PROJECT_DIR$/spring-boot-web/spring-boot-web.iml" />
+    </modules>
+  </component>
+</project>
