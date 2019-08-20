@@ -10,6 +10,8 @@
         <option value="$PROJECT_DIR$/spring-boot-fastdfs/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-freemarker/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-fileupload/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-shiro/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-security/pom.xml" />
       </list>
     </option>
   </component>

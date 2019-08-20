@@ -1,4 +1,4 @@
-package com.xing.aop;
+package com.xing.design.structure.proxy;
 
 //import org.springframework.cglib.proxy.Proxy;
 
